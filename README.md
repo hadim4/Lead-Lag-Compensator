@@ -1,6 +1,8 @@
-Lead-Lag Compensator
+# Lead-Lag Compensator
+
 
 Designed and simulated lead and lead-lag compensators for a DC servomotor system using MATLAB and root-locus analysis to improve system stability, transient response, and steady-state performance.
 
+### Technologies Used
 
-Tools: MATLAB, Control System Toolbox
+`MATLAB` · `Simulink` 
